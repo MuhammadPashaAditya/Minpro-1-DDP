@@ -50,7 +50,8 @@ python
 ["B001", "Dompet hitam", "Kantin", "Belum ditemukan"]
 
 Untuk gambar Flowchart
-<img width="4268" height="6120" alt="image" src="https://github.com/user-attachments/assets/a7ac6649-984d-4268-a982-3ab4ae35a50c" />
+<img width="4268" height="6120" alt="image" src="https://github.com/user-attachments/assets/f9e89161-2bba-464d-b06c-e17820a69211" />
+
 
 
 
